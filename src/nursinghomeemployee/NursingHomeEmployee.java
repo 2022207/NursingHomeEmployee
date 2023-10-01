@@ -30,11 +30,13 @@ public class NursingHomeEmployee {
         return employeeId;
     }
         
-    
-    
-    
-    
-    
+     public void performDuties() {
+        System.out.println(name + " is doing their job!");
     }
+}
+}
+
+
     
-    }
+    
+   
